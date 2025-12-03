@@ -6,6 +6,7 @@ from vaccines import calc_dates, get_vaccine_info
 from scheduler import start_scheduler
 
 # --- Konfiguratsiya ---
+# ...
 TOKEN = ""
 ADMIN = 6602964695
 ADMIN2 = 7857976480  
